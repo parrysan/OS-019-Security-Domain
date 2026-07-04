@@ -42,6 +42,7 @@ created: "2026-07-04"
 | **Project docs** | `./docs/` (charter: `docs/security-domain-design.md` — pending, full cookie-cutter run) |
 | **Vault project page** | `Open-Memory-Vault/projects/OS-019-Security-Domain/README.md` |
 | **GitHub repo** | https://github.com/parrysan/OS-019-Security-Domain |
+| **Research store** | [OG-Research/OS-019-Security-Domain](https://drive.google.com/drive/folders/1BnPtPBp2Aw93ChwLD3d_s_xxPYRMF5h3) (`research/`, `assets/`, `deliverables/`) |
 | **External systems** | none yet |
 
 ---
