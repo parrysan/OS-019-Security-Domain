@@ -6,6 +6,8 @@ created: "2026-07-04"
 
 # OS-019 — Security Domain
 
+> **⚠️ ARCHIVED 2026-07-09 — absorbed into `OS-000-ENG` (Engineering Skill Centre).** Defensive security is now part of Engineering's charter. This project never advanced past scaffold and is kept only as provenance. Do no further work here — route security work to `OS-000-ENG`.
+
 > **Bootstrap order — read these in order before doing any work in this project:**
 >
 > 1. `~/.claude/CLAUDE.md` → `Open-Memory-Vault/system/identity/MASTER-PROMPT.md` — Phil's identity (auto-loaded via symlink in Claude Code; other tools should mirror this).
@@ -24,7 +26,7 @@ created: "2026-07-04"
 - **Name**: Security Domain
 - **Stakeholder**: Phil (self)
 - **Type**: `aios`
-- **Status**: `planning`
+- **Status**: `archived` — absorbed into `OS-000-ENG`
 - **Priority**: `low`
 - **Revenue lane**: `4-aios`
 - **Autonomy mode**: `co-pilot` — security decisions stay with Phil until the charter defines safe autonomy boundaries.
